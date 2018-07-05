@@ -1,0 +1,1 @@
+# En este repositorio se encuentran apuntes elaborados por David Zamora Rey sobre las asignaturas Arquitectura de Computadores y Ampliación de Sistemas Operativos y redes cursadas en la Universidad Complutense de Madrid
